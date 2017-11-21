@@ -1,0 +1,28 @@
+{
+  "name": "educar",
+  "version": "1.0.0",
+  "description": "Webpage of Educar.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizeduardoraposo/educar.xyz.git"
+  },
+  "keywords": [
+    "Video",
+    "Login",
+    "Ejs"
+  ],
+  "author": "Luiz Eduardo Raposo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/luizeduardoraposo/educar.xyz/issues"
+  },
+  "homepage": "https://github.com/luizeduardoraposo/educar.xyz#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
